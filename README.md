@@ -31,6 +31,8 @@ The project focused on how to build React code from scratch for an interactive w
 - CSS3
 - HTML5
 
-## Acknowledgements
+## Launch
+[See the live version of the Super Sticky Notes app here.](https://bn2qgl.csb.app/)
 
+## Acknowledgements
 **Skillcrush** - I coded the Super Sticky Notes app's React files with support and guidance from Skillcrush. The app's HTML and CSS files and their contents were provided by Skillcrush.  
